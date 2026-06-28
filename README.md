@@ -8,5 +8,5 @@
 
   <br />
   <a href="https://github.com/zilitye/github-readme-activity-graph">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zilitye&theme=transparent" width="100%" alt="Profile Details" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zilitye&theme=transparent&utcOffset=8" width="100%" alt="Profile Details" />
   </a>
