@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zilitye/zilitye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/zilitye">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&width=435&lines=Hi%2C+I'm+Zi+Li.;Nice+to+meet+you." alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</a>
+
+  <br />
+  <a href="https://github.com/zilitye/github-readme-activity-graph">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cXp1r&theme=transparent" width="100%" alt="Profile Details" />
+  </a>
+
+  <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td width="37.5%" valign="top">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img
+            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=transparent"
+            width="100%"
+            alt="Repos per Language"
+          />
+        </a>
+      </td>
+      <td width="62.5%" valign="top">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img
+            src="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=dracula&hide_border=true&area=true"
+            width="100%"
+            alt="Activity Graph"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
