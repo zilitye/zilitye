@@ -17,7 +17,7 @@
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
           <img
             src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=transparent"
-            width="100%"
+            width="50%"
             alt="Repos per Language"
           />
         </a>
