@@ -1,10 +1,8 @@
 <div align="center">
+  <a href="https://github.com/zilitye">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E3A8A&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Zi Li" alt="Typing SVG" />
+  </a>
 
-<a href="https://github.com/zilitye">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&width=435&lines=Hi%2C+I'm+Zi+Li.;Nice+to+meet+you." alt="Typing SVG" />
-
-</a>
 
   <br />
 <a href="https://github.com/zilitye/github-readme-activity-graph">
