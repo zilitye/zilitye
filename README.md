@@ -8,7 +8,7 @@
 
   <br />
   <a href="https://github.com/zilitye/github-readme-activity-graph">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cXp1r&theme=transparent" width="100%" alt="Profile Details" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zilitye&theme=transparent" width="100%" alt="Profile Details" />
   </a>
 
   <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
