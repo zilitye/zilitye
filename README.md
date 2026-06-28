@@ -7,6 +7,16 @@
 </a>
 
   <br />
-  <a href="https://github.com/zilitye/github-readme-activity-graph">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zilitye&theme=transparent&utcOffset=8" width="100%" alt="Profile Details" />
-  </a>
+<a href="https://github.com/zilitye/github-readme-activity-graph">
+  <table>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=transparent" alt="Repos per Language" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zilitye&theme=transparent&utcOffset=8" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+</a>
+
