@@ -5,18 +5,27 @@
 
   <br><br />
 
-  <!-- Updated link to repositories -->
-  <a href="https://github.com/zilitye?tab=repositories">
-    <table>
-      <tr>
-        <td>
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=transparent" alt="Repos per Language" />
-        </td>
-        <td>
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=minimal&hide_border=true&area=true"
-          width="62.5%" />
-        </td>
-      </tr>
-    </table>
+  <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td width="37.5%" valign="top">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img
+            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=transparent"
+            width="100%"
+            alt="Repos per Language"
+          />
+        </a>
+      </td>
+      <td width="62.5%" valign="top">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img
+            src="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=minimal&hide_border=true&area=true"
+            width="100%"
+            alt="Activity Graph"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
   </a>
 </div>
