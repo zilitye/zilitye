@@ -19,7 +19,7 @@
       <td width="62.5%" valign="top">
         <a href="https://github.com/zilitye?tab=repositories">
           <img
-            src="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=minimal&hide_border=true&area=true"
+            src="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=minimal&color=1f6feb&bg_color=00000000&hide_border=true&area=true"
             width="100%"
             alt="Activity Graph"
           />
