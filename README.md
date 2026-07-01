@@ -13,7 +13,8 @@
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=transparent" alt="Repos per Language" />
         </td>
         <td>
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=minimal&hide_border=true&area=true" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=minimal&hide_border=true&area=true"
+          width="62.5%" />
         </td>
       </tr>
     </table>
