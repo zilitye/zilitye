@@ -10,9 +10,9 @@
     <td width="37.5%" valign="top">
       <a href="https://github.com/zilitye?tab=repositories">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=github_dark" />
+          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=github_dark&hide_border" />
           <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=github" />
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=github" width="100%" alt="Repos per Language" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=github&hide_border" width="100%" alt="Repos per Language" />
         </picture>
       </a>
     </td>
