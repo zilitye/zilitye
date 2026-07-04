@@ -5,27 +5,27 @@
 
   <br><br />
 
-  <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td width="37.5%" valign="top">
-        <a href="https://github.com/zilitye?tab=repositories">
-          <img
-            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=transparent"
-            width="100%"
-            alt="Repos per Language"
-          />
-        </a>
-      </td>
-      <td width="62.5%" valign="top">
-        <a href="https://github.com/zilitye?tab=repositories">
-          <img
-            src="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=minimal&color=1f6feb&bg_color=00000000&hide_border=true&area=true"
-            width="100%"
-            alt="Activity Graph"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
+<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td width="37.5%" valign="top">
+      <a href="https://github.com/zilitye?tab=repositories">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=github_dark" />
+          <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=github" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zilitye&theme=github" width="100%" alt="Repos per Language" />
+        </picture>
+      </a>
+    </td>
+    <td width="62.5%" valign="top">
+      <a href="https://github.com/zilitye?tab=repositories">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=github-dark&hide_border=true&area=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=github-light&hide_border=true&area=true" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=github-light&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
   </a>
 </div>
