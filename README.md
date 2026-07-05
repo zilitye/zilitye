@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/zilitye">
+  <a href="https://github.com/zilitye/zilitye">
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1f6feb&center=true&vCenter=true&width=940&repeat=false&lines=Hi%2C+I'm+Zi+Li." 
       alt="Typing SVG" 
