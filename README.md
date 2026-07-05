@@ -6,7 +6,15 @@
     />
   </a>
 
-  <br /><br />
+<a href="https://www.credly.com/users/zilitye/badges">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/carousel?username=zilitye&theme=github_dark&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&interval=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/carousel?username=zilitye&theme=github_light&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&interval=3" />
+    <img src="https://credly-readme-stats.onrender.com/api/carousel?username=zilitye&theme=github_light&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&interval=4" alt="Certification" />
+  </picture>
+</a>
+
+  <!--<br /><br />-->
 
   <table 
     align="center" 
@@ -47,4 +55,7 @@
       </td>
     </tr>
   </table>
+
+
+
 </div>
