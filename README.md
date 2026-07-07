@@ -21,8 +21,8 @@
     <td width="37.5%" valign="top" style="border: none;">
       <a href="https://github.com/zilitye?tab=repositories">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=zilitye&layout=donut&theme=github_dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=zilitye&layout=donut&hide_values=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=zilitye&layout=donut&hide_border=true&theme=github_dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=zilitye&layout=donut&hide_border=true&hide_values=true" />
           <img src="https://github-stats-extended.vercel.app/api/top-langs?username=zilitye&layout=donut&hide_values=true" width="100%" alt="Top Languages" />
         </picture>
       </a>
