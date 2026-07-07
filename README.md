@@ -8,13 +8,11 @@
 
 <a href="https://www.credly.com/users/zilitye/badges">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/carousel?username=zilitye&theme=github_dark&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&interval=3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/carousel?username=zilitye&theme=github_light&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&interval=3" />
-    <img src="https://credly-readme-stats.onrender.com/api/carousel?username=zilitye&theme=github_light&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&interval=4" alt="Certification" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=github_dark&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&columns=6&rows=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=github_light&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&columns=6&rows=1" />
+    <img src="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=github_light&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&columns=6&rows=1" alt="Certification" />
   </picture>
 </a>
-
-  <!--<br /><br />-->
 
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
   <tr>
@@ -38,7 +36,5 @@
     </td>
   </tr>
 </table>
-
-
 
 </div>
