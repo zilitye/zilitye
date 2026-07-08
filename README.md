@@ -8,9 +8,9 @@
 
 <a href="https://www.credly.com/users/zilitye/badges">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=github_dark&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&columns=6&rows=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=github_light&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&columns=6&rows=1" />
-    <img src="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=github_light&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&columns=6&rows=1" alt="Certification" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=github_dark&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&show_issuer=true&columns=6&rows=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=github_light&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&show_issuer=true&columns=6&rows=1" />
+    <img src="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=github_light&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&show_issuer=true&columns=6&rows=1" alt="Certification" />
   </picture>
 </a>
 
