@@ -3,12 +3,10 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&repeat=false&lines=Hi%2C+I'm+Zi+Li." />
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2F80ED&center=true&vCenter=true&width=940&repeat=false&lines=Hi%2C+I'm+Zi+Li." />
-      <a href="https://github.com/zilitye/zilitye">
-        <img 
-          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2F80ED&center=true&vCenter=true&width=940&repeat=false&lines=Hi%2C+I'm+Zi+Li." 
-          alt="Typing SVG" 
-        />
-      </a>
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2F80ED&center=true&vCenter=true&width=940&repeat=false&lines=Hi%2C+I'm+Zi+Li." 
+        alt="Typing SVG" 
+      />
     </picture>
   </a>
 
