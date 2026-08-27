@@ -32,9 +32,9 @@
     <td width="62.5%" valign="top" style="border: none;">
       <a href="https://github.com/zilitye?tab=repositories">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=github-dark&hide_border=true&area=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=github-light&hide_border=true&area=true" />
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=zilitye&theme=github-light&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.pixelhize.workers.dev/graph?username=zilitye&theme=github-dark&hide_border=true&area=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.pixelhize.workers.dev/graph?username=zilitye&theme=github-light&hide_border=true&area=true" />
+          <img src="https://github-readme-activity-graph.pixelhize.workers.dev/graph?username=zilitye&theme=github-light&hide_border=true&area=true" width="100%" alt="Activity Graph" />
         </picture>
       </a>
     </td>
