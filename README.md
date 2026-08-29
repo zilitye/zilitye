@@ -1,22 +1,5 @@
 <div align="center">
-  <a href="https://github.com/zilitye/zilitye">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&repeat=false&lines=Hi%2C+I'm+Zi+Li." />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2F80ED&center=true&vCenter=true&width=940&repeat=false&lines=Hi%2C+I'm+Zi+Li." />
-      <img 
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2F80ED&center=true&vCenter=true&width=940&repeat=false&lines=Hi%2C+I'm+Zi+Li." 
-        alt="Typing SVG" 
-      />
-    </picture>
-  </a>
 
-<a href="https://www.credly.com/users/zilitye/badges">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=github_dark&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&show_issuer=true&columns=6&rows=1&badge_size=64" />
-    <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=default&bg_color=ffffff&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&show_issuer=true&columns=6&rows=1&badge_size=64" />
-    <img src="https://credly-readme-stats.onrender.com/api/grid?username=zilitye&theme=default&bg_color=ffffff&hide_border=true&hide_title=true&custom_title=Certification&visible_count=6&show_name=false&show_issuer=true&columns=6&rows=1&badge_size=64" alt="Certification" />
-  </picture>
-</a>
 
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
   <tr>
@@ -40,5 +23,7 @@
     </td>
   </tr>
 </table>
+
+
 
 </div>
