@@ -24,12 +24,18 @@
   </tr>
 </table>
 
-<h4>Achievements</h4>
+<br><br>
 
 <table>
+  <tr>
+    <th>Achievement</th>
+    <th>Category</th>
+    <th>Issuer</th>
+    <th>Year</th>
+  </tr>
 
   <tr>
-    <td>DOSM Datathon 3<sup>rd</sup> Prize </td>
+    <td>DOSM Datathon 3<sup>rd</sup> Prize</td>
     <td>Competition</td>
     <td>DOSM Malaysia</td>
     <td>2026</td>
@@ -38,7 +44,7 @@
   <tr>
     <td>
       <a href="https://github.com/zilitye/zilitye/blob/main/Coursera%20NVHHUDHZEQ1S.pdf">
-        Google Advanced Data Analytics
+        Google Advanced Data Analytics Professional Certificate
       </a>
     </td>
     <td>Certification</td>
