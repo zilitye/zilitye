@@ -24,18 +24,9 @@
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="https://github.com/zilitye/zilitye/blob/main/Coursera%20NVHHUDHZEQ1S.pdf">
-        Google Advanced Data Analytics
-      </a>
-    </td>
-    <td align="right">
-      Completion
-    </td>
-  </tr>
-</table>
+| Certificate | Status |
+| --- | ---: |
+| [Google Advanced Data Analytics](https://github.com/zilitye/zilitye/blob/main/Coursera%20NVHHUDHZEQ1S.pdf) | Completion |
 
 
 </div>
