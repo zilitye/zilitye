@@ -24,8 +24,6 @@
   </tr>
 </table>
 
-<br><br>
-
 <table>
   <tr>
     <th>Achievement</th>
