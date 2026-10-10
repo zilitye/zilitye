@@ -24,9 +24,7 @@
   </tr>
 </table>
 
-| Certificate | Status |
-| --- | ---: |
-| [Google Advanced Data Analytics](https://github.com/zilitye/zilitye/blob/main/Coursera%20NVHHUDHZEQ1S.pdf) | Completion |
+Google Advanced Data Analytics                    Completion
 
 
 </div>
