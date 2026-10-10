@@ -24,16 +24,33 @@
   </tr>
 </table>
 
-<table width="100%">
+<h4>Achievements</h4>
+
+<table>
+
   <tr>
-    <td align="left">
+    <td>DOSM Datathon 3<sup>rd</sup> Prize </td>
+    <td>Competition</td>
+    <td>DOSM Malaysia</td>
+    <td>2026</td>
+  </tr>
+
+  <tr>
+    <td>
       <a href="https://github.com/zilitye/zilitye/blob/main/Coursera%20NVHHUDHZEQ1S.pdf">
         Google Advanced Data Analytics
       </a>
     </td>
-    <td align="right">
-      Completion
-    </td>
+    <td>Certification</td>
+    <td>Google / Coursera</td>
+    <td>2026</td>
+  </tr>
+
+  <tr>
+    <td>Dean's List</td>
+    <td>Academic Award</td>
+    <td>UPM</td>
+    <td>2026</td>
   </tr>
 </table>
 
