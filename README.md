@@ -33,7 +33,7 @@
   </tr>
 
   <tr>
-    <td>DOSM Datathon 2026 3<sup>rd</sup> Prize</td>
+    <td>3<sup>rd</sup> Prize， DOSM Datathon 2026 </td>
     <td>Competition</td>
     <td>Department of Statistic Malaysia</td>
     <td>2026</td>
