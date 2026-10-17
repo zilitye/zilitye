@@ -46,16 +46,10 @@
       </a>
     </td>
     <td>Certification</td>
-    <td>Google / Coursera</td>
+    <td>Coursera</td>
     <td>2026</td>
   </tr>
 
-  <tr>
-    <td>Dean's List</td>
-    <td>Academic Award</td>
-    <td>UPM</td>
-    <td>2026</td>
-  </tr>
 </table>
 
 
