@@ -35,7 +35,7 @@
   <tr>
     <td>DOSM Datathon 3<sup>rd</sup> Prize</td>
     <td>Competition</td>
-    <td>DOSM</td>
+    <td>Department of Statistic Malaysia</td>
     <td>2026</td>
   </tr>
 
