@@ -32,12 +32,16 @@
     <th>Year</th>
   </tr>
 
-  <tr>
-    <td>DOSM Datathon 2026 | 2<sup>nd</sup> Prize</td>
-    <td>Competition</td>
-    <td>Department of Statistic Malaysia</td>
-    <td>2026</td>
-  </tr>
+<tr>
+  <td>
+    <a href="https://github.com/zilitye/zilitye/blob/main/20261020_174836.jpg" target="_blank" rel="noopener noreferrer">
+      DOSM Datathon 2026 | 2<sup>nd</sup> Prize
+    </a>
+  </td>
+  <td>Competition</td>
+  <td>Department of Statistics Malaysia (DOSM)</td>
+  <td>2026</td>
+</tr>
 
   <tr>
     <td>
