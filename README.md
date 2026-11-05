@@ -34,7 +34,7 @@
 
 <tr>
   <td>
-    <a href="https://github.com/zilitye/zilitye/blob/main/20261020_174836.jpg" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/zilitye/zilitye/blob/main/TYE%20ZI%20LI.pdf">
       DOSM Datathon 2026 | 2<sup>nd</sup> Prize
     </a>
   </td>
